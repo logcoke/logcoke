@@ -1,7 +1,7 @@
 ## About Me
 👋 Hi there! My name is Mi DeFeng (he). **logcoke** is my nickname, you can use it to identify me on other platforms.
 
-- 🔭 I am an undergraduate student jointly tained by [Wuhan University of Technology](http://english.whut.edu.cn) and [XinJiang Normal University](https://www.xjnu.edu.cn).
+- 🔭 I am an undergraduate student jointly at [XinJiang Normal University](https://www.xjnu.edu.cn) and also a student in the joint undergraduate program with [Wuhan University of Technology](http://english.whut.edu.cn).
 - 🌱 My research interests include large language models, AI security and AI agents.
 - 📫 How to reach me: logcoke.42@gmail.com
 

@@ -13,7 +13,7 @@
 
 <p>
   <!-- 编程语言 -->
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,html,css,js,vue,git,linux,mysql,ps,idea,clion,pycharm,vscode" alt="icons"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,idea,clion,pycharm,vscode,html,css,js,vue,git,linux,mysql" alt="icons"/>
 </p>
 
 ## GitHub Stats

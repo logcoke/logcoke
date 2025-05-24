@@ -1,16 +1,23 @@
-## Hi there 👋
+## About Me
+👋 Hi there! My name is Jiarui Shen (he). **AlexGrandbell** is my nickname, you can use it to identify me on other platforms.
 
-<!--
-**logcoke/logcoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am an undergraduate student at [XinJiang Normal University](https://www.xjnu.edu.cn).
+- 🌱 My research interests include large language models, AI security and AI agents.
+- 📫 How to reach me: logcoke.42 (at) gmail.com
 
-Here are some ideas to get you started:
+☟This is the number of requests that have visited this page (Starting from May 1, 2025).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://komarev.com/ghpvc/?username=logcoke&label=View)](https://github.com/logcoke)
+
+## Languages & Tools
+
+<p>
+  <!-- 编程语言 -->
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,python,swift,html,css,js,vue,spring,nginx,git,docker,nodejs,linux,ubuntu,apple,mysql,figma,ps,pr,au,tensorflow,idea,clion,pycharm,vscode" alt="icons"/>
+</p>
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=logcoke&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=logcoke&layout=compact)

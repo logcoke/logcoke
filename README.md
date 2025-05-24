@@ -1,5 +1,5 @@
 ## About Me
-👋 Hi there! My name is Jiarui Shen (he). **AlexGrandbell** is my nickname, you can use it to identify me on other platforms.
+👋 Hi there! My name is Mi DeFeng (he). **logcoke** is my nickname, you can use it to identify me on other platforms.
 
 - 🔭 I am an undergraduate student at [XinJiang Normal University](https://www.xjnu.edu.cn).
 - 🌱 My research interests include large language models, AI security and AI agents.

@@ -3,7 +3,7 @@
 
 - 🔭 I am an undergraduate student at [XinJiang Normal University](https://www.xjnu.edu.cn) and also a student in the joint undergraduate program with [Wuhan University of Technology](http://english.whut.edu.cn).
 - 🌱 My research interests include large language models, AI security and AI agents.
-- 📫 How to reach me: logcoke42@gmail.com
+- 📫 How to reach me: logcoke.42@gmail.com
 
 ☟This is the number of requests that have visited this page (Starting from May 24, 2025).
 

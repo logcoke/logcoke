@@ -11,12 +11,15 @@
 
 ## Languages & Tools
 
+<p>
+  <!-- 编程语言 -->
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,idea,clion,pycharm,vscode,html,css,mysql" alt="icons"/>
+</p>
 
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=logcoke&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=logcoke&layout=compact)
 
 // If you also want to have a similar personal homepage, you need to create a repository with the same name as your username.
 

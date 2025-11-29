@@ -18,7 +18,7 @@
 
 ## GitHub Stats
 
-![Top Languages](https://logcokes-projects-195a4896.vercel.app/api/top-langs/?username=logcoke&layout=compact)
+![Top Languages](https://github-readme-stats-mu-ecru-60.vercel.app/api/top-langs/?username=logcoke&layout=compact)
 
 // If you also want to have a similar personal homepage, you need to create a repository with the same name as your username.
 
